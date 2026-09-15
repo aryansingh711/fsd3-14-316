@@ -1,0 +1,82 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 17 Pro",
+    "os": "iOS",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_size_inches": 6.3
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S26",
+    "os": "Android",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_size_inches": 6.2
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 10",
+    "os": "Android",
+    "ram_gb": 12,
+    "storage_gb": 128,
+    "display_size_inches": 6.3
+  },
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 14",
+    "os": "Android",
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "display_size_inches": 6.7
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 16",
+    "os": "Android",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_size_inches": 6.36
+  },
+  {
+    "brand": "Vivo",
+    "model": "Vivo X300",
+    "os": "Android",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_size_inches": 6.78
+  },
+  {
+    "brand": "Oppo",
+    "model": "Oppo Find X9",
+    "os": "Android",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_size_inches": 6.7
+  },
+  {
+    "brand": "Nothing",
+    "model": "Nothing Phone (4)",
+    "os": "Android",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_size_inches": 6.55
+  },
+  {
+    "brand": "Motorola",
+    "model": "Motorola Edge 70",
+    "os": "Android",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_size_inches": 6.7
+  },
+  {
+    "brand": "Realme",
+    "model": "Realme GT 8",
+    "os": "Android",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_size_inches": 6.74
+  }
+]
